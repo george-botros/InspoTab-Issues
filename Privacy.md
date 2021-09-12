@@ -1,3 +1,3 @@
-#Privacy Policy
+# Privacy Policy
 
 We do not collect any information whatsoever. 
